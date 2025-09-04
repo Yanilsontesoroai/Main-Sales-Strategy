@@ -1,4 +1,4 @@
-# 📧 Main Sales Strategy v2 – Automated B2B Email Outreach (n8n)
+#  Main Sales Strategy v2 – Automated B2B Email Outreach (n8n)
 
 This repository contains the n8n workflows that power Tesoro AI's automated B2B outreach system. It generates personalized recruitment emails based on live company insights and sends them via Gmail, while managing opt-in/out flows and tracking metadata through Google Sheets.
 
