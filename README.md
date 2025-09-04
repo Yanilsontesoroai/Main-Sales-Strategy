@@ -56,8 +56,7 @@ Controls the overall logic, routes to sub-workflows and form handlers.
 
 ## 👤 Maintainer
 
-**Yanilson Moreno**  
-Research Analyst, Tesoro AI  
+**Yanilson Moreno**   
 [tesoroai.com](https://www.tesoroai.com)
 
 
